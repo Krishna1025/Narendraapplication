@@ -30,13 +30,13 @@
 <distributionManagement>
     <repository>
         <id>central</id>
-        <name>Jayapaul-releases</name>
-        <url>http://localhost:8081/artifactory/jayapal_devops</url>
+        <name>DESKTOP-AC3TNII-releases</name>
+        <url>http://localhost:8081/artifactory/Krishna</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>Jayapaul-snapshots</name>
-        <url>http://localhost:8081/artifactory/jayapal_devops</url>
+        <name>DESKTOP-AC3TNII-snapshots</name>
+        <url>http://localhost:8081/artifactory/Krishna</url>
     </snapshotRepository>
 </distributionManagement>
 
